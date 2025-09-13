@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Khushi Soni 👋  
 
-<!--
-**khushisoni02/khushisoni02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Data Analyst** passionate about turning raw data into actionable insights.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- 🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
+- 🗄️ **SQL** (PostgreSQL, MySQL)  
+- 📊 **Power BI** & **Excel** (Interactive Dashboards, Data Cleaning & Visualization)  
+- 📈 **Business Intelligence**, **Data Modeling**, **Statistical Analysis**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- **Retail Sales BI Dashboard** – Power BI & SQL dashboard analyzing sales trends and improving reporting efficiency by **20%**.  
+- **Titanic Survival Analysis** – Excel & Python EDA revealing key survival patterns with **38% survival rate**.
+
+## 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)  
+[![Email](https://img.shields.io/badge/Email-white?logo=gmail&logoColor=red)](mailto:your.email@example.com)
+
+---
+
+✨ *“Data tells a story—I'm here to help it speak.”*  
